@@ -1,0 +1,7 @@
+{
+  "name": "ChronoCraft Watch Face Studio",
+  "description": "Professional smartwatch UI watch face designer with real-time ticking simulation, interactive complications, bezel mockups, and Wear OS Watch Face Format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
